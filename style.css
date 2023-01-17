@@ -1,0 +1,283 @@
+img{
+	margin-left: 10%;
+	margin-top: 40px;
+}
+.box{
+	border: 1px solid black;
+	width: 500px;
+	height: 300px;
+	margin-left: 10%;
+background-color: white;
+margin-top: 40px;
+border-radius: 10px;
+}
+.sun{
+	margin-left: 14px;
+	margin-top: 10px;
+	position: absolute;
+}
+.up{
+	margin-left: 70px;
+	color: black;
+	margin-top:1%;
+	position: absolute;
+}
+	.input{
+		margin-left: 250px;
+		position: absolute;
+		top: 150px;
+		width: 200px;
+	}
+	.spoon{
+		margin-left: 14px;
+		margin-top: 80px;
+	position: absolute;
+
+	}
+	.Lunch{
+		margin-left: 80px;
+	color: black;
+	margin-top:6%;
+	position: absolute;
+
+	}
+	.input1{
+		margin-left: 250px;
+		position: absolute;
+		top: 230px;
+		width: 200px;
+
+	}
+
+	.zz{
+		margin-left: 14px;
+		margin-top: 160px;
+	position: absolute;
+
+
+	}
+	.nap{
+		margin-left: 80px;
+	color: black;
+	margin-top:11%;
+	position: absolute;
+
+}
+.input2{
+	margin-left: 250px;
+		position: absolute;
+		top: 300px;
+		width: 200px;
+}
+.ngt{
+	margin-left: 80px;
+	color: black;
+	margin-top:16%;
+	position: absolute;
+}
+.input3{
+	margin-left: 250px;
+		position: absolute;
+		top: 380px;
+		width: 200px;
+}
+
+.tm1{
+	width: 70px;
+	height: 70px;
+	border: 1px solid black;
+	background-color: pink;
+	position: absolute;
+	top: 70px;
+	margin-left: 57%;
+	background: transparent url('color2.png') ;
+opacity: 1;
+border-style: none;
+color: purple;
+
+}
+.tm2{
+	width: 70px;
+	height: 70px;
+	border: 1px solid black;
+	background-color: pink;
+	position: absolute;
+	top: 70px;
+	margin-left: 63%;
+	background: transparent url('color2.png') ;
+opacity: 1;
+border-style: none;
+color: purple;
+
+}
+.tm3{
+	width: 70px;
+	height: 70px;
+	border: 1px solid black;
+	background-color: pink;
+	position: absolute;
+	top: 70px;
+	margin-left: 70%;
+	background: transparent url('color2.png') ;
+opacity: 1;
+border-style: none;
+color: purple;
+
+}
+.tm4{
+	width: 70px;
+	height: 70px;
+	border: 1px solid black;
+	background-color: pink;
+	position: absolute;
+	top: 70px;
+	margin-left:76%;
+	background: transparent url('color1.png') ;
+opacity: 1;
+border-style: none;
+color: purple;
+
+}
+.tt{
+	position: absolute;
+	top: 25px;
+	margin-left: 10%;
+	font-size: 20px;
+
+}
+
+.goodmorning{
+	border: 1px solid black;
+	width: 500px;
+	height: 80px;
+	background-color:#9867C5;
+	margin-top: 20px;
+	margin-left: 150px;
+	border-radius: 10px;
+	border-style: none;
+}
+.setalaram{
+	border: 1px solid black;
+	height: 50px;
+	width: 230px;
+	margin-left: 150px;
+	margin-top: 20px;
+	border-radius: 5px;
+	background:transparent linear-gradient(113deg, #6E54EC 0%, #CB52F8 40%, #FC5EFF 81%, #F1A7C5 100%);
+}
+h3{
+	color: white;
+	text-align: center;
+}
+.timing{
+	border: 1px solid black;
+	height: 100px;
+	width: 220px;
+	margin-left: 400px;
+	position: absolute;
+	top: 75%;
+	background-color: ;
+
+}
+h4{
+	color: #F25CFE;
+}
+.set{
+	border: 1px solid black;
+	width: 200px;
+	height: 60px;
+	margin-top: 10px;
+	margin-left: 80px;
+	background-color: white;
+	border-radius: 3px;
+}
+.message{
+	border: 1px solid black;
+	width: 170px;
+	height: 60px;
+	margin-left: 30%;
+	position: absolute;
+	top: 20px;
+	background-color: white;
+	border-radius: 6px;
+
+}
+.box1{
+	top: 67px;
+left: 785px;
+width: 379px;
+height: 130px;
+/* UI Properties */
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 0.22;
+position: absolute;
+}
+.box2{
+	top: 55px;
+left: 766px;
+width: 416px;
+height: 130px;
+
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 0.71;
+position: absolute;
+}
+.box3{
+	top: 42px;
+left: 706px;
+width: 536px;
+height: 130px;
+
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+border: 1px solid var(--unnamed-color-ededed);
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #EDEDED;
+border-radius: 10px;
+opacity: 1;
+position: absolute;
+}
+.box4{
+	top: 212px;
+left: 706px;
+width: 536px;
+height: 118px;
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+border: 1px solid var(--unnamed-color-ededed);
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #EDEDED;
+border-radius: 10px;
+opacity: 1;
+position: absolute;
+}
+.box5{
+	top: 345px;
+left: 707px;
+width: 536px;
+height: 341px;
+/* UI Properties */
+opacity: 1;
+position: absolute;
+background-color: white;
+}
+.curton{
+	width: 400px;
+	height: 300px;
+}
+.grab{
+	top: 30px;
+left: 100px;
+width: 490px;
+height: 38px;
+position: absolute;
+
+text-align: left;
+font:  20px ;
+letter-spacing: 0px;
+color: #8E53F0;
+text-transform: uppercase;
+opacity: 1;
+}
